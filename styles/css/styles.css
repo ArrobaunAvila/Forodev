@@ -1,0 +1,16 @@
+
+
+.imagesdev img{	
+margin-right: 10px;
+width: 50px;
+height: auto;
+}
+
+	body{
+		background: url('styles/seablue.jpg');
+	    overflow: hidden;
+	}
+.body-cuenta{
+   overflow: scroll;
+background-color:  #f2f4f4 ;
+}
